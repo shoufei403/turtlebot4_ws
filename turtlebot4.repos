@@ -1,0 +1,46 @@
+repositories:
+  turtlebot4:
+    type: git
+    url: https://ghproxy.com/https://github.com/turtlebot/turtlebot4.git
+    version: galactic
+  turtlebot4_robot:
+    type: git
+    url: https://ghproxy.com/https://github.com/turtlebot/turtlebot4_robot.git
+    version: galactic
+  turtlebot4_desktop:
+    type: git
+    url: https://ghproxy.com/https://github.com/turtlebot/turtlebot4_desktop.git
+    version: galactic
+  turtlebot4_simulator:
+    type: git
+    url: https://ghproxy.com/https://github.com/turtlebot/turtlebot4_simulator.git
+    version: galactic
+  turtlebot4_examples:
+    type: git
+    url: https://ghproxy.com/https://github.com/turtlebot/turtlebot4_examples
+    version: galactic
+  turtlebot4_tutorials:
+    type: git
+    url: https://ghproxy.com/https://github.com/turtlebot/turtlebot4_tutorials
+    version: galactic
+  irobot_create_msgs:
+    type: git
+    url: https://ghproxy.com/https://github.com/iRobotEducation/irobot_create_msgs
+    version: main
+  create3_sim:
+    type: git
+    url: https://ghproxy.com/https://github.com/iRobotEducation/create3_sim.git
+    version: main
+  luxonis/depthai-ros:
+    type: git
+    url: https://ghproxy.com/https://github.com/luxonis/depthai-ros.git
+    version: main
+  luxonis/depthai-ros-examples:
+    type: git
+    url: https://ghproxy.com/https://github.com/luxonis/depthai-ros-examples.git
+    version: main
+  robot_upstart:
+    type: git
+    url: https://ghproxy.com/https://github.com/clearpathrobotics/robot_upstart.git
+    version: foxy-devel
+
