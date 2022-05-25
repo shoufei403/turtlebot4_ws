@@ -149,6 +149,7 @@ CMake Error at shared/depthai-bootloader-shared.cmake:33 (if):
 ```
 
 解决措施：
+可参考我提的`issue`：[https://github.com/luxonis/depthai-core/issues/489](https://github.com/luxonis/depthai-core/issues/489)
 
 在相应文件报错处更改如下
 
@@ -339,7 +340,7 @@ git clone https://ghproxy.com/https://github.com/turtlebot/turtlebot4.git
 ![公众号](https://sf-blog-images.oss-cn-hangzhou.aliyuncs.com/shoufei_qr_gongzhonghao.jpg)
 
 
-运行仿真环境时会报错：
+运行仿真环境时会报错：  
 运行命令：
 ```bash
 ros2 launch turtlebot4_ignition_bringup ignition.launch.py
